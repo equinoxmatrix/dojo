@@ -60,7 +60,7 @@ be the right tool for your next project:
 -   When you need feature-rich, lightweight, and mobile-friendly grids/tables,
     Dojo offers the `dgrid` widget, along with customizable default themes and
     accompanying features such as in-cell editing, row/cell selection, column
-    resizing/reordering, keyboard handling, pagination, and more.
+    resizing/reordering, keyboard handling, pagination, and more. The themes mimic Android, iOS, or Windows.
 
 -   Dojo is the officially supported framework for the ArcGIS API for
     JavaScript, one of the most widely used enterprise-grade APIs for web
